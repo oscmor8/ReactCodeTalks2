@@ -1,0 +1,7 @@
+
+# Explain the diagram 
+The image is attempting to explain the logic behind attempting to make both buttons that are in the app component display the same count and update both counts together. In order to do this we have to move the state for the buttons towards the closest components that have both buttons in this case within the My app function.
+
+
+# Hooks
+Hooks offer the advantage of enabling functional components to handle states without relying on classes. This approach provides a simpler and more concise syntax, leading to improved code organization and reusability.
